@@ -1,7 +1,6 @@
 <!-- @format -->
-
+![PSGC_Banner_0](https://github.com/user-attachments/assets/86cedf13-be17-4382-b7c7-15558d416640) 
 # Philippine Standard Geographic Code (PSGC)
-
 The **Philippine Standard Geographic Code (PSGC)** is a systematic
 classification and coding system for geographical locations in the Philippines.
 Maintained by the **Philippine Statistics Authority (PSA)**, it serves as the
